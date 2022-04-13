@@ -1,5 +1,4 @@
 import moderngl as ModernGL
-from ModernGL.ext.obj import Obj
 from PIL import Image
 from pyrr import Matrix44
 
